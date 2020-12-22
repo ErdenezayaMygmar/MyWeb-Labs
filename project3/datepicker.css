@@ -1,0 +1,44 @@
+td#OtherMonth {
+     color: yellow; 
+     background: #08BB1E;
+}
+
+td#CurMonth {
+    background: #3CEC52;
+   
+}
+
+#LeftArrow, #RightArrow{
+   
+     cursor: pointer;
+    background:#2DA8EB;}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    background: #EFB912;   
+    cursor: default;
+}
+table{
+	margin:auto;
+	width: 800px;
+	height: 800px;
+	border:2px solid #913A27;
+}
+h1{
+	margin-left:auto;
+}
+body{
+	background: url(5.jpg);
+	animation-name: example;
+	animation-duration:30s;
+	
+}
+/*@keyframes example {
+  0% {background: url(1.jpg);}
+  20% {background:url(2.jpg);}
+  40%{background: url(3.jpg);}
+  60%{background: url(4.jpg);}
+  80%{background: url(6.jpg);}
+  100%{background: url(5.jpg);}
+}

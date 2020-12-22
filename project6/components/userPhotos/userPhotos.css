@@ -1,0 +1,15 @@
+img{
+    height: 400px;
+    width:600px;
+    
+    border:1px solid black;
+    border-radius: 20px;
+}
+.img p{
+    width: 800px;
+    font-size: 15px;
+}
+.comm{
+    background-color:rgb(83, 207, 238);
+    font-size: 20px;
+}
